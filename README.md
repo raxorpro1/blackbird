@@ -1,4 +1,4 @@
-aaaaaa
+aaaaaa78
 [![Build Status](https://travis-ci.org/butor/blackbird.svg?branch=master)](https://travis-ci.org/butor/blackbird)  [![Blackbird chat](https://badges.gitter.im/blackbird_bitcoin_arbitrage/Lobby.svg)](https://gitter.im/blackbird_bitcoin_arbitrage/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 <p align="center">
